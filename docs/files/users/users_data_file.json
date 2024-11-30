@@ -1,0 +1,67 @@
+[
+    {
+        "id": "1",
+        "name": "Alice Johnson",
+        "average_stars": 4.7,
+        "review_count": 220,
+        "fans": 30,
+        "yelping_since": "2018-06-12",
+        "useful": 600,
+        "compliment_cool": 15,
+        "compliment_cute": 12,
+        "compliment_funny": 20,
+        "compliment_hot": 10
+    },
+    {
+        "id": "2",
+        "name": "Bob Brown",
+        "average_stars": 3.5,
+        "review_count": 100,
+        "fans": 5,
+        "yelping_since": "2019-02-20",
+        "useful": 300,
+        "compliment_cool": 10,
+        "compliment_cute": 2,
+        "compliment_funny": 8,
+        "compliment_hot": 3
+    },
+    {
+        "id": "3",
+        "name": "Charlie White",
+        "average_stars": 4.0,
+        "review_count": 75,
+        "fans": 12,
+        "yelping_since": "2020-11-15",
+        "useful": 500,
+        "compliment_cool": 25,
+        "compliment_cute": 7,
+        "compliment_funny": 15,
+        "compliment_hot": 5
+    },
+    {
+        "id": "4",
+        "name": "Diana Green",
+        "average_stars": 5.0,
+        "review_count": 50,
+        "fans": 20,
+        "yelping_since": "2021-07-01",
+        "useful": 700,
+        "compliment_cool": 30,
+        "compliment_cute": 20,
+        "compliment_funny": 10,
+        "compliment_hot": 40
+    },
+    {
+        "id": "5",
+        "name": "Eve Black",
+        "average_stars": 3.8,
+        "review_count": 90,
+        "fans": 8,
+        "yelping_since": "2022-03-09",
+        "useful": 450,
+        "compliment_cool": 18,
+        "compliment_cute": 9,
+        "compliment_funny": 11,
+        "compliment_hot": 12
+    }
+]

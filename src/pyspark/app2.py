@@ -21,5 +21,6 @@ get_device.info()
 get_subscription.info()
 
 #get plan
+#mode funcionam em algumas versoes anteriores a versao instalada na maquina local
 get_device.spark.explain(mode="formatted")
 get_subscription.spark.explain(mode="formatted")
